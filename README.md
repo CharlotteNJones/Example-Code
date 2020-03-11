@@ -1,2 +1,2 @@
 # Example-Code
-I compilation code I have created while at Hendrix College
+I compilation of code I have written while at Hendrix College.
